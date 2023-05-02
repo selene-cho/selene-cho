@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
     <br />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   </div><br />
   <div>
@@ -41,14 +41,23 @@
   </div>
   <br /><br />
   
-  ### 😊&nbsp;MY STATUS&nbsp;⭐
+  ### ⭐&nbsp;MY STATUS&nbsp;⭐
   <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=dracula)&nbsp;
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E7A7FF&title_bg=%238D64F3&icon=&icon_color=%23C365FB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E7A7FF&title_bg=%238D64F3&icon=&icon_color=%23C365FB&title=HITS&edge_flat=false)](https://github.com/selene-cho)
+
+  ### 😘&nbsp;FOLLOW ME&nbsp;🍀
+  <div align="center">
+    <a href="https://velog.io/@fullmoon29">
+      <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fullmoon29" />
+    </a>&nbsp;
+    <a href="mailto:selene.cho29@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=selene.cho29@gmail.com" />
+    </a>
+  </div>
 </div>
 
 <!--
