@@ -53,10 +53,10 @@
   ### 😘&nbsp;FOLLOW ME&nbsp;🍀
   <div align="center">
     <a href="https://velog.io/@fullmoon29">
-      <img src="https://img.shields.io/badge/TECH%20BLOG-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@fullmoon29" />
+      <img src="https://img.shields.io/badge/TECH%20BLOG-11B48A?style=round&logo=Vimeo&logoColor=white&link=https://velog.io/@fullmoon29" />
     </a>&nbsp;
     <a href="mailto:selene.cho29@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=selene.cho29@gmail.com" />
+      <img src="https://img.shields.io/badge/Gmail-d14836?style=round&logo=Gmail&logoColor=white&link=selene.cho29@gmail.com" />
     </a>
   </div>
 </div>
