@@ -11,7 +11,7 @@
   
   <div align=center>
     <p>STACK</p>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=round&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
     <br />
@@ -33,11 +33,11 @@
   </div><br />
   <div>
     <p>TOOLS</p>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+    <img src="https://img.shields.io/badge/github-181717?style=round&logo=github&logoColor=white"> 
+    <img src="https://img.shields.io/badge/git-F05032?style=round&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/discord-5865F2?style=round&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=round&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/slack-4A154B?style=round&logo=slack&logoColor=white">
   </div>
   <br /><br />
   
