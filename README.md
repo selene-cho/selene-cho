@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=round&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/reactrouter-CA4245?style=round&logo=reactrouter&logoColor=white">
     <img src="https://img.shields.io/badge/reactquery-FF4154?style=round&logo=reactquery&logoColor=white"> 
-    <img src="https://img.shields.io/badge/reacthookform-EC5990?style=round&logo=reacthookform&logoColor=white">
+    <img src="https://img.shields.io/badge/reacthookform-EC5990?style=round&logo=reacthookform&logoColor=black">
   </div><br />
   <div>
     <p>TOOLS</p>
