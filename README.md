@@ -41,11 +41,13 @@
   </div>
   <br /><br />
   
-  ### 😊&nbsp;It's ME&nbsp;⭐
+  ### 😊&nbsp;MY STATUS&nbsp;⭐
   <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=dracula)&nbsp;
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E7A7FF&title_bg=%238D64F3&icon=&icon_color=%23C365FB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
     
 </div>
 
