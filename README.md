@@ -7,7 +7,7 @@
   <br />
   <br />
   
-  #### 💻&nbsp;TECH STACK&nbsp;💻
+  ### 💻&nbsp;TECH STACK&nbsp;💻
   <br />
   
   <div align=center>
@@ -19,7 +19,12 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   </div>
-  <hr>
+  <div>
+    <p>Library</p>
+    <img src="https://img.shields.io/badge/reactrouter-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white">
+    <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"> 
+    <img src="https://img.shields.io/badge/reacthookform-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white">
+  </div>
   <div>
     <p>Tools</p>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
@@ -30,7 +35,7 @@
   </div>
   <br /><br />
   
-  #### 😊&nbsp;It's ME&nbsp;⭐
+  ### 😊&nbsp;It's ME&nbsp;⭐
   <br />
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=dracula)&nbsp;
