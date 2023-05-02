@@ -1,11 +1,11 @@
-<div style="display: flex; flex-direction: column; align-items:center; justify-contents: center" >
+<div align=center >
   ### 👩🏻‍💻 I'm Frontend Web Developer 🌱
 
 
 
   ## 💻 TECH STACK 💻
 
-  <div>
+  <div align=center>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
@@ -17,7 +17,7 @@
 
   ## ⭐️ It's ME ⭐️
 
-  <div style="display: flex; flex-direction: column; align-items:center">
+  <div align=center>
     ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)
   </div>
