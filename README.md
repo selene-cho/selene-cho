@@ -22,12 +22,13 @@
   <br /><br />
   
   #### 😊&nbsp;It's ME&nbsp;⭐
-  
+</div>
+
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)  
-<br />
+ &nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)
     
-</div>
+
 
 
 <!--
