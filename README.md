@@ -1,7 +1,8 @@
 <div align=center >
   
   ### 👩🏻‍💻 I'm Frontend Web Developer 🌱
-
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=A61EFF&center=true&vCenter=true&width=435&lines=+I'm+Web+Frontend+Developer+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 
   ## 💻 TECH STACK 💻
@@ -21,6 +22,8 @@
   <div align=center>
     
     ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
+    
+    <br>
     
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)
     
