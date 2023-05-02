@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/css3-1572B6?style=round&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/sass-CC6699?style=round&logo=sass&logoColor=white"> 
     <br />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round&logo=javascript&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=round&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=round&logo=react&logoColor=white"> 
   </div><br />
   <div>
