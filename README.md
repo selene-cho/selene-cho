@@ -4,8 +4,7 @@
   <br />
   
   ### 👩🏻‍💻&nbsp;무럭무럭 성장 중인 개발자 CHO&nbsp;🌱✨
-  <br />
-  <br />
+  <br /><br />
   
   ### 💻&nbsp;TECH STACK&nbsp;💻
   <br />
