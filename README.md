@@ -19,9 +19,9 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   </div>
+  <br /><br />
   
   #### 😊&nbsp;It's ME&nbsp;⭐
-   <br />
   
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)  
 <br />
