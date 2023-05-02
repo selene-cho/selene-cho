@@ -24,7 +24,7 @@
   #### 😊&nbsp;It's ME&nbsp;⭐
   <br />
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=dracula)&nbsp;
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
     
 </div>
