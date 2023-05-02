@@ -22,12 +22,10 @@
   <br /><br />
   
   #### 😊&nbsp;It's ME&nbsp;⭐
-</div>
 
 ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)
     
-
-
+</div>
 
 <!--
 **selene-cho/selene-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
