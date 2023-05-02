@@ -1,11 +1,10 @@
 <div align=center >
   
-  ### 👩🏻‍💻 I'm Frontend Web Developer 🌱
+  ### 👩🏻‍💻 무럭무럭 성장 중인 개발자 CHO 🌱✨
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=A61EFF&center=true&vCenter=true&width=435&lines=+I'm+Web+Frontend+Developer+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=D956FF&center=true&vCenter=true&width=435&lines=+I'm+Web+Frontend+Developer+%F0%9F%92%9C)](https://git.io/typing-svg)
 
-
-  ## 💻 TECH STACK 💻
+  ### 💻 TECH STACK 💻
 
   <div align=center>
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -15,17 +14,17 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> 
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
   </div>
-
-
-  ## ⭐️ It's ME ⭐️
+  
+  ### 😊 It's ME ⭐
+  
+</div>
 
     ![Dahee's GitHub stats](https://github-readme-stats.vercel.app/api?username=selene-cho&show_icons=true&theme=dracula)
     
-    <br>
     
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selene-cho&layout=compact&theme=buefy)
     
-</div>
+
 
 <!--
 **selene-cho/selene-cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
