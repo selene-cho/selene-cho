@@ -1,6 +1,6 @@
 <div align=center >
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=D956FF&center=true&vCenter=true&width=435&lines=+I'm+A+Web+Frontend+Developer+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&color=D956FF&center=true&vCenter=true&width=435&lines=+I'm+a+Web+Frontend+Developer+%F0%9F%92%9C)](https://git.io/typing-svg)
   <br />
   
   ### 👩🏻‍💻 &nbsp; 무럭무럭 성장 중인 개발자 CHO &nbsp; 🌱✨
