@@ -33,6 +33,7 @@
   </div><br />
   <div>
     <p>TOOLS</p>
+    <img src="https://img.shields.io/badge/github-5C2D91?style=round&logo=VScode&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=round&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/git-F05032?style=round&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/discord-5865F2?style=round&logo=discord&logoColor=white">
