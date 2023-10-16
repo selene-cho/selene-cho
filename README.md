@@ -13,13 +13,14 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=round&logo=sass&logoColor=white"> 
+    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=round&logo=styledcomponents&logoColor=white"> 
     <br />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=round&logo=react&logoColor=white"> 
     <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=redux&logoColor=white"> 
   </div><br />
   <div align=center>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=round&logo=nodedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/NodeJS-339933?style=round&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=round&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Mongoose-880000?style=round&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=round&logo=express&logoColor=white">
@@ -29,10 +30,9 @@
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=round&logo=netlify&logoColor=white"> 
   </div><br />
   <div align=center>
-    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=round&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=round&logo=reactrouter&logoColor=white">
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=round&logo=reactquery&logoColor=white"> 
-    <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=round&logo=reacthookform&logoColor=black">
+    <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=round&logo=reacthookform&logoColor=black"> 
   </div><br />
   <div align=center>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=round&logo=visualstudiocode&logoColor=white">
