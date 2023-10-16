@@ -10,29 +10,32 @@
   <br />
   
   <div align=center>
-    <p>STACK</p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=round&logo=sass&logoColor=white"> 
     <br />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=round&logo=react&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=react&logoColor=white"> 
   </div><br />
   <div>
-    <p>SERVER</p>
+    <hr />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=round&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Mongoose-F04D35?style=round&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=round&logo=amazonaws&logoColor=black">
     <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=round&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/AmazonS3-569A31?style=round&logo=amazons3&logoColor=white"> 
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=round&logo=netlify&logoColor=white"> 
   </div><br />
   <div>
-    <p>LIBRARY</p>
+    <hr />
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=round&logo=styledcomponents&logoColor=white"> 
     <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=round&logo=reactrouter&logoColor=white">
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=round&logo=reactquery&logoColor=white"> 
     <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=round&logo=reacthookform&logoColor=black">
   </div><br />
   <div>
-    <p>TOOLS</p>
+    <hr />
     <img src="https://img.shields.io/badge/VScode-007ACC?style=round&logo=visualstudiocode&logoColor=white">
     <img src="https://img.shields.io/badge/Github-181717?style=round&logo=github&logoColor=white"> 
     <img src="https://img.shields.io/badge/Git-F05032?style=round&logo=git&logoColor=white">
