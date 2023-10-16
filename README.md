@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=redux&logoColor=white"> 
   </div><br />
   <div align=center>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=round&logo=nodedotjs&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=round&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Mongoose-880000?style=round&logo=mongoose&logoColor=white">
     <img src="https://img.shields.io/badge/Express-000000?style=round&logo=express&logoColor=white">
