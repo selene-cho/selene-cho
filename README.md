@@ -32,7 +32,7 @@
   <div align=center>
     <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=round&logo=reactrouter&logoColor=white">
     <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=round&logo=reactquery&logoColor=white"> 
-    <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=round&logo=reacthookform&logoColor=black"> 
+    <img src="https://img.shields.io/badge/ReactHookForm-EC5990?style=round&logo=reacthookform&logoColor=white"> 
   </div><br />
   <div align=center>
     <img src="https://img.shields.io/badge/VScode-007ACC?style=round&logo=visualstudiocode&logoColor=white">
