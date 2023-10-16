@@ -16,12 +16,12 @@
     <br />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=javascript&logoColor=black"> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=round&logo=react&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=react&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=round&logo=redux&logoColor=white"> 
   </div><br />
   <div align=center>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=round&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/Mongoose-F04D35?style=round&logo=amazonaws&logoColor=white">
-    <img src="https://img.shields.io/badge/Express-000000?style=round&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=round&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/Mongoose-880000?style=round&logo=mongoose&logoColor=white">
+    <img src="https://img.shields.io/badge/Express-000000?style=round&logo=express&logoColor=white">
     <br />
     <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=round&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/AmazonS3-569A31?style=round&logo=amazons3&logoColor=white"> 
