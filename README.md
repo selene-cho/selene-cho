@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=round&logo=amazonaws&logoColor=white"> 
     <img src="https://img.shields.io/badge/AmazonS3-569A31?style=round&logo=amazons3&logoColor=white"> 
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=round&logo=netlify&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Vercel-000000?style=round&logo=vercel&logoColor=white"> 
   </div><br />
   <div align=center>
     <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=round&logo=reactrouter&logoColor=white">
